@@ -48,10 +48,11 @@ let questions = [
     
 ];
 
-
+//Fixed 
 const SCORE_POINTS = 100;
 const MAX_QUESTIONS = 7;
 
+//Getting questions values  
 startQuiz = () => {
     questionCounter = 0;
     score = 0;
@@ -59,31 +60,39 @@ startQuiz = () => {
     getNewQuestion();
 }
 
+
+//Functions 
 getNewQuestion = () => {
+
+//Tracking the score
     if(availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS){
         localStorage.setItem('mostRecentScore', score);
 
         return window.location.assign('/end.html');
     }
 
+//keeping on track of the questions
     questionCounter++
     progressText.innerText = `question ${questionCounter} of ${MAX_QUESTIONS}`;
     progressBarFull.style.width = `${(questionCounter/MAX_QUESTIONS) * 100}%`;
 
+//Asking on track question 
     const questionIndex = Math.floor(Math.random() * availableQuestions.length);
     currentQuestion = availableQuestions[questionIndex];
     question.innerText = currentQuestion.question;
 
+//Takes the choice that user picked
     choices.forEach(choice => {
         const number = choice.dataset ['number'];
-        choice.innerText = currentQuestion['choice' + number]
+        choice.innerText = currentQuestion['choice' + number];
     })
 
-    availableQuestions.splice(questionIndex, 1)
+    availableQuestions.splice(questionIndex, 1);
 
-    acceptingAnswers = true
+    acceptingAnswers = true;
 }
 
 choices.forEach(choice => {
-    choice.addEventListener
+    choice.addEventListener('click', e=> {
+    })
 })
