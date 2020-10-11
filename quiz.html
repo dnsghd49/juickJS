@@ -4,10 +4,44 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="assets/style.css" />
-    <!--link rel="stylesheet" href="style.css" /-->
+    <link rel="stylesheet" href="assets/quiz.css"> 
     <title>Quiz</title>
 </head>
 <body>
-    <div class="container"></div>
+    <div class="container">
+        <div id="game" class="justify-center flex-colum">
+            <div id="hud">
+                <div class="hud-item">
+                    <p class="hud-prefix">
+                        Score
+                    </p>
+                    <h1 class="hud-main-text" id="score">
+                        0
+                    </h1>
+                </div>
+            </div>
+        <!--Questions and Choices-->
+            <h1 id="question">question number 1 ashddfkjsagahdf</h1>
+            <div class="choice-container">
+                <p class="choice-prefix">A</p>
+                <p class="choice-text" data-number="1"></p>
+            </div>
+            <div class="choice-container">
+                <p class="choice-prefix">B</p>
+                <p class="choice-text" data-number="1"></p>
+            </div>
+            <div class="choice-container">
+                <p class="choice-prefix">C</p>
+                <p class="choice-text" data-number="1"></p>
+            </div>
+            <div class="choice-container">
+                <p class="choice-prefix">D</p>
+                <p class="choice-text" data-number="1"></p>
+            </div>
+        </div>
+    </div>
+
+
+<script src="assets/quiz.js"></script>
 </body>
 </html>
