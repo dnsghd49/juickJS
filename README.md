@@ -1,6 +1,6 @@
 # juickJS
 
-Depolyed Link: https://dnsghd49.github.io/juickJS/
+Deployed Link: https://dnsghd49.github.io/juickJS/
 
 Aaron Lu's week 4 hw
 
