@@ -5,7 +5,10 @@
   [![GitHub issues](https://img.shields.io/github/issues/dnsghd49/juickJS.svg)](https://GitHub.com/dnsghd49/juickJS/issues/)
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-Deployed Link: https://dnsghd49.github.io/juickJS/
+
+## Deployed Link:
+
+https://dnsghd49.github.io/juickJS/
 
 ## Description
 
@@ -31,10 +34,8 @@ This is a simple quiz web application with HTML, CSS, and JavaScript
 
 ## Installation
 
-To install necessary dependencies, run the following command:
-
 ```
-No need
+Click the deployed link!
 ```
 
 ## Usage
@@ -47,13 +48,6 @@ Get it right, it's very simple and kinda stupid xD,
 
 Make an issues~
 
-## Tests
-
-To run tests, run the following command:
-
-```
-No test command 
-```
 
 ## Questions
 
