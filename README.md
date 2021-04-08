@@ -5,14 +5,11 @@
   [![GitHub issues](https://img.shields.io/github/issues/dnsghd49/juickJS.svg)](https://GitHub.com/dnsghd49/juickJS/issues/)
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-<<<<<<< HEAD
 =======
 Deployed Link: https://dnsghd49.github.io/juickJS/
->>>>>>> 8454a3137a9f7e36ea633589e417e39fe193234b
 
 ## Description
 
-<<<<<<< HEAD
 This is a simple quiz web application with HTML, CSS, and JavaScript
 
 ## Table of Contents 
@@ -62,6 +59,3 @@ No test command
 ## Questions
 
 If you have any questions about the repo, open an issue or contact me directly at yunhonglu0409@gmail.com. You can find more of my work at [dnsghd49](https://github.com/dnsghd49/).
-=======
-My own personal quiz with css and javascript.
->>>>>>> 8454a3137a9f7e36ea633589e417e39fe193234b
