@@ -1,4 +1,4 @@
-# juickJS
+# Code Quiz
   [![GitHub contributors](https://img.shields.io/github/contributors/dnsghd49/juickJS.svg)](https://GitHub.com/dnsghd49/juickJS/graphs/contributors/)
   [![Build Status](https://img.shields.io/github/forks/dnsghd49/juickJS.svg)](https://github.com/dnsghd49/juickJS/network/)
   [![Build Status](https://img.shields.io/github/stars/dnsghd49/juickJS.svg)](https://github.com/dnsghd49/juickJS/)
