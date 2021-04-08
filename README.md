@@ -30,7 +30,7 @@ This is a simple quiz web application with HTML, CSS, and JavaScript
 
 ## Screenshot
 
-![ScreenShot](https://raw.github.com/dnsghd49/juickJS/Ex: tree/main/assets/img/screenshot.png)
+![ScreenShot](https://raw.github.com/dnsghd49/juickJS/main/assets/img/Capture.png)
 
 ## Installation
 
