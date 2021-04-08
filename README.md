@@ -5,7 +5,6 @@
   [![GitHub issues](https://img.shields.io/github/issues/dnsghd49/juickJS.svg)](https://GitHub.com/dnsghd49/juickJS/issues/)
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-=======
 Deployed Link: https://dnsghd49.github.io/juickJS/
 
 ## Description
